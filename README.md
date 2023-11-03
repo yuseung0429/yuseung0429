@@ -1,11 +1,22 @@
-### Hi there 👋
-![yuseung0429's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuseung0429&show_icons=true&theme=transparent)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseung0429&exclude_repo=yuseung0429.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuseung0429&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+<div class="header-image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome&nbsp;to&nbsp;&nbsp;Yuseung's&nbsp;Github😊&fontAlignY=40&fontSize=45&fontColor=ffffff" />
+</div>
+
+
+<h3>🎓Education</h3>
+✔ Yeungnam Univ, Computer Science <br>
+✔ Yeungnam Univ, Business Administration
+
+<hr>
+<h3 align="left">✨Stats</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuseung0429&theme=transparent&show_icons=true" width="45%" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseung0429&layout=compact&theme=transparent" width="45%" height="175"/>
+</div>
+
+
+
 <!--
 **yuseung0429/yuseung0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
