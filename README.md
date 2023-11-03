@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 <h3>🎓Education</h3>
-✔ Yeungnam Univ, Bachelor's degree Computer Science <br>
-✔ Yeungnam Univ, Business Administration
+✔ Yeungnam Univ, Bachelor's degree in Computer Science <br>
+✔ Yeungnam Univ, Bachelor's degree in Business Administration
 
 <hr>
 <table>
