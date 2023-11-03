@@ -1,5 +1,5 @@
 ### Hi there 👋
-![yuseung0429's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![yuseung0429's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuseung0429&show_icons=true&theme=transparent)
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseung0429&exclude_repo=yuseung0429.github.io&layout=compact&theme=tokyonight" />
 </a>
