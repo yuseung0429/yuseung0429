@@ -20,17 +20,22 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 <h3>🎓Education</h3>
-✔ Yeungnam Univ, Computer Science <br>
+✔ Yeungnam Univ, Bachelor's degree Computer Science <br>
 ✔ Yeungnam Univ, Business Administration
 
 <hr>
-<h3 align="left">✨Stats</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuseung0429&theme=transparent&show_icons=true" width="45%" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseung0429&layout=compact&theme=transparent" width="45%" height="175"/>
-</div>
-
+<table>
+  <tr width="100%" height = "auto">
+    <td width="50%">
+      <h3>✨Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=yuseung0429&theme=transparent&show_icons=true" height="150"/>
+    </td>
+    <td width="50%">
+      <h3>🌈Language</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseung0429&layout=compact&theme=transparent" height="150"/>
+    </td>
+  </tr>
+</table>
 
 
 <!--
