@@ -27,14 +27,18 @@ I am a beginner developer who is growing with the goal of becoming a fintech dev
 
 <hr>
 <table>
-  <tr width="100%" height = "auto">
-    <td width="50%">
+  <tr>
+    <td>
       <h3>✨Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=yuseung0429&theme=transparent&show_icons=true" height="150"/>
     </td>
-    <td width="50%">
+    <td>
       <h3>🌈Language</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseung0429&layout=compact&theme=transparent" height="150"/>
+    </td>
+    <td>
+      <h3>💻Algorithm</h3>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuseung0429" height="150">
     </td>
   </tr>
 </table>
