@@ -11,9 +11,12 @@ I am a beginner developer who is growing with the goal of becoming a fintech dev
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>  
 <br>
 ### 🎓Education
-✔ Yeungnam Univ, Bachelor's degree in Computer Science [2018.03.02 ~ 2024.02.22]  
-✔ Yeungnam Univ, Bachelor's degree in Business Administration [2018.03.02 ~ 2024.02.22]  
-✔ Samsung SW Academy For Youth 11th (SSAFY) [2024.01.02 ~ ing]  
+✔ Yeungnam Univ, Bachelor's degree in Computer Science [2018.03 ~ 2024.02]  
+✔ Yeungnam Univ, Bachelor's degree in Business Administration [2018.03 ~ 2024.02]  
+✔ Samsung SW Academy For Youth 11th (SSAFY) [2024.01 ~ 2024.12]
+<br>
+### 🏢Company
+✔ [2025.04 ~]
 <br>
 |✨Stats|🌈Language|💻Algorithm|
 |---|---|---|
