@@ -15,6 +15,7 @@ I am a beginner developer who is growing with the goal of becoming a fintech dev
 ✔ Yeungnam Univ, Bachelor's degree in Business Administration [2018.03 ~ 2024.02]  
 ✔ Samsung SW Academy For Youth 11th (SSAFY) [2024.01 ~ 2024.12]
 <br>
+<br>
 ### 🏢Company
 ✔ [2025.04 ~]
 <br>
