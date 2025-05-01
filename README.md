@@ -17,7 +17,7 @@ I am a beginner developer who is growing with the goal of becoming a fintech dev
 <br>
 <br>
 ### 🏢Company
-✔ Koscom [2025.04 ~ ing]
+✔ KOSCOM [2025.04 ~ ing]
 <br>
 |✨Stats|🌈Language|💻Algorithm|
 |---|---|---|
