@@ -18,7 +18,3 @@ I am a beginner developer who is growing with the goal of becoming a fintech dev
 <br>
 ### 🏢Company
 ✔ KOSCOM [2025.04 ~ ing]
-<br>
-|✨Stats|🌈Language|💻Algorithm|
-|---|---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=yuseung0429&theme=transparent&show_icons=true" height="150"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseung0429&layout=compact&theme=transparent" height="150"/>|<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuseung0429" height="150">|
